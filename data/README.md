@@ -1,5 +1,7 @@
 Dataset: Online Retail Dataset
+
 Source: Kaggle / UCI Machine Learning Repository
+
 Note: Dataset not uploaded due to size
 
 # Dataset Information

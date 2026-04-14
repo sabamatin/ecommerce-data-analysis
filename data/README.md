@@ -1,3 +1,7 @@
+Dataset: Online Retail Dataset
+Source: Kaggle / UCI Machine Learning Repository
+Note: Dataset not uploaded due to size
+
 # Dataset Information
 
 This project uses the Online Retail dataset.
@@ -14,3 +18,4 @@ This project uses the Online Retail dataset.
 - Data includes transactions, product details, and customer IDs
 - Negative quantities represent returns
 - Invoice numbers starting with "C" indicate cancellations
+

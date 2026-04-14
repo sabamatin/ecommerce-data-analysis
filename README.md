@@ -339,3 +339,9 @@ Optimize marketing budget allocation toward high-impact segments.
 
 ## 📂 SQL Queries
 👉 [View SQL file](analysis.sql)
+
+## 📂 Project Structure
+
+- `README.md` → Project overview, business questions, and insights  
+- `analysis.sql` → Full SQL queries used in the analysis  
+- `data/` → Dataset reference  

@@ -339,9 +339,20 @@ Optimize marketing budget allocation toward high-impact segments.
 
 ## 📂 SQL Queries
 👉 [View SQL file](analysis.sql)
+## 📊 Visualizations
+
+### Revenue Over Time
+![Revenue Trend](images/Revenue_trend.png)
+
+### Customer Distribution by Segment
+![Segment Count](images/segmented_count.png)
+
+### Revenue by Customer Segment
+![Segment Revenue](images/segment_revenue.png)
 
 ## 📂 Project Structure
 
 - `README.md` → Project overview, business questions, and insights  
 - `analysis.sql` → Full SQL queries used in the analysis  
 - `data/` → Dataset reference  
+-`images/`→ Charts
